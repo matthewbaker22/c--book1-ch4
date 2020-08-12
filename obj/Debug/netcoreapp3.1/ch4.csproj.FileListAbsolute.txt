@@ -1,0 +1,13 @@
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\bin\Debug\netcoreapp3.1\ch4.exe
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\bin\Debug\netcoreapp3.1\ch4.deps.json
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\bin\Debug\netcoreapp3.1\ch4.runtimeconfig.json
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\bin\Debug\netcoreapp3.1\ch4.runtimeconfig.dev.json
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\bin\Debug\netcoreapp3.1\ch4.dll
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\bin\Debug\netcoreapp3.1\ch4.pdb
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\obj\Debug\netcoreapp3.1\ch4.csprojAssemblyReference.cache
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\obj\Debug\netcoreapp3.1\ch4.AssemblyInfoInputs.cache
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\obj\Debug\netcoreapp3.1\ch4.AssemblyInfo.cs
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\obj\Debug\netcoreapp3.1\ch4.csproj.CoreCompileInputs.cache
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\obj\Debug\netcoreapp3.1\ch4.dll
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\obj\Debug\netcoreapp3.1\ch4.pdb
+C:\Users\mattb\Desktop\csharp-workspace\book-1-orientation\part-1-C#\ch4\obj\Debug\netcoreapp3.1\ch4.genruntimeconfig.cache
